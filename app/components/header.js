@@ -16,10 +16,10 @@ const Header = () => {
           </ul>
         </div>
         <div className="flex items-center space-x-4">
-          <a href="https://github.com" className="text-white hover:text-gray-300">
+          <a href="https://github.com/cyberdeepesh/" className="text-white hover:text-gray-300">
             <FaGithub className="h-6 w-6" />
           </a>
-          <a href="https://linkedin.com" className="text-white hover:text-gray-300">
+          <a href="https://www.linkedin.com/in/deepeshdcd" className="text-white hover:text-gray-300">
             <FaLinkedin className="h-6 w-6" />
           </a>
         </div>

@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div>
             <h3 className="text-xl font-semibold mb-4">About Me</h3>
-            <p className="text-gray-300">I'm a passionate web developer dedicated to creating beautiful and functional websites.</p>
+            <p className="text-gray-300">I&apos;m a passionate web developer dedicated to creating beautiful and functional websites.</p>
           </div>
           <div>
             <h3 className="text-xl font-semibold mb-4">Useful Links</h3>
@@ -21,9 +21,9 @@ const Footer = () => {
           </div>
           <div>
             <h3 className="text-xl font-semibold mb-4">Contact Me</h3>
-            <p className="text-gray-300">123 Street Name, City, Country</p>
-            <p className="text-gray-300">contact@example.com</p>
-            <p className="text-gray-300">+123 456 7890</p>
+            <p className="text-gray-300">Chheharta, Amrotsar, Punjab, India</p>
+            <p className="text-gray-300">kumardeepesh159@gmail.com</p>
+            <p className="text-gray-300">+91 9115 783 676</p>
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
